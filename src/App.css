@@ -1,0 +1,27 @@
+.App {
+  display: grid;
+  grid-template-columns: 300px auto;
+  grid-column-gap: 10px;
+}
+
+menu {
+  list-style: none;
+  justify-self: center;
+  display: block;
+  width:100%;
+  margin: 0;
+  padding: 0;
+}
+menu a{
+  background: #ffffd8;
+  max-width: 100%;
+  display: block;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+  border-right: 1px solid #ddd;
+}
+menu a:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
