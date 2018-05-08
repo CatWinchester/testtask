@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}.App{display:grid;grid-template-columns:300px auto;grid-column-gap:10px}menu{list-style:none;justify-self:center;width:100%;margin:0;padding:0}menu,menu a{display:block}menu a{background:#ffffd8;max-width:100%;border-bottom:1px solid #ddd;padding:10px;text-align:center;border-right:1px solid #ddd}menu a:hover{cursor:pointer;opacity:.8}
+/*# sourceMappingURL=main.023b59db.css.map*/
